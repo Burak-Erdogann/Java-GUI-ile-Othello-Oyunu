@@ -1,0 +1,2 @@
+Oyuncu 1 Tas Sayisi :  3
+Oyuncu 2 Tas Sayisi :  3
